@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.counter{
+    margin-top: 150px;
+    padding: 20px;
+   
+    
+}
+h1{
+    padding-bottom: 30px;
+    text-shadow: 5px 5px  3px lightgray;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+h2{
+    padding-bottom: 30px;
+}
+button{
+    padding: 8px;
+    margin: 0 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.inc{
+    background-color: rgb(124, 192, 85);
+    
+}
+.res{
+    background-color: lightgray;
+}
+.dec{
+    background-color: rgb(16, 199, 190);
+}
